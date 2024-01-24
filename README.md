@@ -17,14 +17,14 @@ A home lab depends on what you want to do with it, which can range from creating
 
 # Hardware
 - HP Prodesk 600 G5 MT
-  CPU: Intel Core I5-9500
+  - CPU: Intel Core I5-9500
       - 6 cores and six threads
   - Memory: 32 GB of mixed ram
       - it came with 16 GB, and I had another 16 GB lying around
   - Storage:
-    512 GB NVME
-    250 GB SSD (was a cache drive I was originally using for my Unraid Server)
-    1 TB SSD (was another drive that I was using for my Unraid server)
-    2 X 1 TB HDD (Very old hard Drives I have not needed but had lying around)
+    - 512 GB NVME
+    - 250 GB SSD (was a cache drive I was originally using for my Unraid Server)
+    - 1 TB SSD (was another drive that I was using for my Unraid server)
+    - 2 X 1 TB HDD (Very old hard Drives I have not needed but had lying around)
 
 What you choose for your hardware is your choice, and by no means do you need as much storage as I put, as I just had them lying around and needed to find some purpose for them. With 6 Corese and six threads, this machine can run the virtual environment I set out to make. 
