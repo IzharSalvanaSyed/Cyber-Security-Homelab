@@ -17,11 +17,9 @@ A home lab depends on what you want to do with it, which can range from creating
 
 # Hardware
 - HP Prodesk 600 G5 MT
-  CPU:
-    Intel Core I5-9500
+  CPU: Intel Core I5-9500
       - 6 cores and six threads
-  - Memory:
-    32 GB of mixed ram
+  - Memory: 32 GB of mixed ram
       - it came with 16 GB, and I had another 16 GB lying around
   - Storage:
     512 GB NVME
