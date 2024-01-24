@@ -23,8 +23,8 @@ A home lab depends on what you want to do with it, which can range from creating
       - it came with 16 GB, and I had another 16 GB lying around
   - Storage:
     - 512 GB NVME
-    - 250 GB SSD (was a cache drive I was originally using for my Unraid Server)
+    - 250 GB SSD (was a cache drive I was initially using for my Unraid Server)
     - 1 TB SSD (was another drive that I was using for my Unraid server)
-    - 2 X 1 TB HDD (Very old hard Drives I have not needed but had lying around)
+    - 2 X 1 TB HDD (old hard Drives I have not needed but had lying around)
 
-What you choose for your hardware is your choice, and by no means do you need as much storage as I put, as I just had them lying around and needed to find some purpose for them. With 6 Corese and six threads, this machine can run the virtual environment I set out to make. 
+What you choose for your hardware is your choice, and by no means do you need as much storage or RAM as I put in, as I just had them lying around and needed to find some purpose for them. You can build this home lab we will create with just 2 cores and four threads, 16 GB of RAM, and about 500GB of storage. With 6 Corese and six threads, this machine can run the virtual environment I set out to make. 
