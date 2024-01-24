@@ -3,11 +3,11 @@
 # Table of contents
 
 1. [Introduction](#introduction)
-2. [Controls Assessment](#control-assessment)
-3. [Botium's Internal Security Audit](#workflow)
-4. [Assessment Checklist](#checklist)
-5. [Control Categories Assessment](#assessment)
-6. [Recommendation/Summary](#summary)
+2. [placeholder](#control-assessment)
+3. [placeholder](#workflow)
+4. [placeholder](#checklist)
+5. [palcehodler](#assessment)
+6. [placeholder](#summary)
 
 # Introduction <a name="introduction">
 I will try to give step-by-step instructions in this lab, as documentation is always good for traceability. This lab aims to gain experience in VMs, networking, firewalls, routing, Active Directory, Kali Linux, and other blue team tools. 
