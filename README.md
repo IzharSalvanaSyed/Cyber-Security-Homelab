@@ -20,10 +20,10 @@ A home lab depends on what you want to do with it, which can range from creating
   CPU:
     Intel Core I5-9500
       - 6 cores and six threads
-  Memory:
+  - Memory:
     32 GB of mixed ram
       - it came with 16 GB, and I had another 16 GB lying around
-  Storage:
+  - Storage:
     512 GB NVME
     250 GB SSD (was a cache drive I was originally using for my Unraid Server)
     1 TB SSD (was another drive that I was using for my Unraid server)
