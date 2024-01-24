@@ -29,4 +29,4 @@ A home lab depends on what you want to do with it, which can range from creating
     1 TB SSD (was another drive that I was using for my Unraid server)
     2 X 1 TB HDD (Very old hard Drives I have not needed but had lying around)
 
-  What you choose for your hardware is your choice, and by no means do you need as much storage as I put, as I just had them lying around and needed to find some purpose for them. With 6 Corese and six threads, this machine can run the virtual environment I set out to make. 
+What you choose for your hardware is your choice, and by no means do you need as much storage as I put, as I just had them lying around and needed to find some purpose for them. With 6 Corese and six threads, this machine can run the virtual environment I set out to make. 
