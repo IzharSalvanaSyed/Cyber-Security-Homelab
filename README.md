@@ -1,6 +1,6 @@
 # Cyber-Security-Homelab
 
-# Table of contents
+### Table of contents
 
 1. [Introduction](#introduction)
 2. [placeholder](#control-assessment)
