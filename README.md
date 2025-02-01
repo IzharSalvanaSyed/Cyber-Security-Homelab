@@ -54,4 +54,7 @@ What you choose for your hardware is your choice, and by no means do you need as
 ### Installation Process
 - you can use this guide to [install Proxmox](https://pve.proxmox.com/wiki/Installation)
 - Followed this [video](https://youtu.be/gTCZ-g-cbbE?t=138) at [9:39](https://youtu.be/gTCZ-g-cbbE?t=138) to install Proxmox
+- 
+
+## To be Continued
 
