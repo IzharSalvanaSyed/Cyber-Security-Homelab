@@ -44,5 +44,14 @@ What you choose for your hardware is your choice, and by no means do you need as
      5. Select Proxmox ISO image
      6. Select the USB stick to Flash Proxmox ISO
      7. Wait a while for it to flash
-     8. FINISH 
+     8. FINISH
+    
+### Instal Proxmox  
+1. Plug the USB to an available USB port on your Computer
+2. Press Delete, F2, or whatever key you need to press to get into the Bios
+3. Change the boot order to start up with the Flashed USB
+
+### Installation Process
+- you can use this guide to [install Proxmox](https://pve.proxmox.com/wiki/Installation)
+- Followed this video at [9:39](https://youtu.be/gTCZ-g-cbbE?t=138) to install Proxmox
 
