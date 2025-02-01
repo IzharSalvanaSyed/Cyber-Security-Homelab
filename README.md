@@ -32,3 +32,17 @@ What you choose for your hardware is your choice, and by no means do you need as
 
 
 ## Installing Proxmox <a name="proxmox">
+
+### Creating an installation USB for Proxmox  
+1. Download Proxmox ISO from the [proxmox website](https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso)
+2. Create a bootable Proxmox Installation USB
+   - There are many ways to create a bootable USB Stick, but I used Balena Etcher.
+     1. Download [BalenaEtcher](https://etcher.balena.io/)
+     2. Install BalenaEtcher
+     3. Plug in a USB Stick
+     4. Open BalenaEtcher
+     5. Select Proxmox ISO image
+     6. Select the USB stick to Flash Proxmox ISO
+     7. Wait a while for it to flash
+     8. FINISH 
+
