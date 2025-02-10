@@ -6,7 +6,7 @@
 2. [Hardware](#hardware)
 3. [Plan](#plan)
 4. [Installing Proxmox](#proxmox)
-5. [palcehodler](#assessment)
+5. [The Plan](#plan)
 6. [placeholder](#summary)
 
 ## Introduction <a name="introduction">
@@ -56,5 +56,6 @@ What you choose for your hardware is your choice, and by no means do you need as
 - Followed this [video](https://youtu.be/gTCZ-g-cbbE?t=138) at [9:39](https://youtu.be/gTCZ-g-cbbE?t=138) to install Proxmox
 - 
 
-## To be Continued
+## The Plan <a name="plan">
 
+![image](https://github.com/user-attachments/assets/fa8c8266-0bb3-4e51-861d-9ac5b5798aaa)
